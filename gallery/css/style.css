@@ -19,6 +19,10 @@ body {
     padding-top: 28px;
 }
 
+.gallery__item{
+    text-align:center;
+}
+
 .gallery{
     display: flex;
     justify-content: space-around;
